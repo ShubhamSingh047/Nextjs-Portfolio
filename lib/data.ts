@@ -36,7 +36,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "SwiftWIN | A Concord Company",
-    location: "Senior Frontend Engineering",
+    location: "Senior Frontend Engineer",
     description: `>Enhanced API functionality, debugged frontend issues, and documented services at Foot Locker, resulting in a 10% reduction in support tickets and increased customer satisfaction.
        Designed and executed deployment QA process at Bed Bath & Beyond to improve audience targeting for marketing emails, leading to a 15% increase in click-through rates. Developed and implemented innovative portal functionalities for Clean Earth Harsco's Connect Plus project, integrating APIs and managing state with Redux, resulting in a 20% increase in user engagement metrics.`,
     icon: React.createElement(FaReact),

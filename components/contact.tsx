@@ -37,7 +37,7 @@ export default function Contact() {
           className="underline"
           href="mailto:shubham.shubham.singh13@gmail.com"
         >
-          shubahm.shubham.singh13@gmail.com
+          shubham.shubham.singh13@gmail.com
         </a>{" "}
         or through this form.
       </p>
